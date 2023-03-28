@@ -1,0 +1,7 @@
+# Default values for hello-microshift.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+namespace: microshift-hello
+image: quay.io/microshift/hello-microshift:latest
+host: hello-microshift.local
