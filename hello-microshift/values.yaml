@@ -2,6 +2,6 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-namespace: microshift-hello
+namespace: hello-microshift
 image: quay.io/microshift/hello-microshift:latest
 host: hello-microshift.local
